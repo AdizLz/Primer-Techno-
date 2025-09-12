@@ -1,1 +1,2 @@
-Este es el archivo de la rama A - AdizLz
+Contenido de docs.txt en rama A
+Este es el contenido de docs.txt en rama B - DIFERENTE al de la rama A
